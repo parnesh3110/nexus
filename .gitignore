@@ -1,0 +1,9 @@
+.build/
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+.DS_Store
+# logs are local debugging output (one file per launch); runs/ CSVs are the committed evidence
+logs/
+# runs/ is committed on purpose: the CSVs back up any latency/jitter numbers

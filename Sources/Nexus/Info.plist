@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>dev.parnesh.nexus</string>
+    <key>CFBundleName</key>
+    <string>Nexus</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Nexus tracks your hand to move the pointer. Camera frames never leave this Mac.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Nexus listens for the wake word "Jarvis".</string>
+</dict>
+</plist>
